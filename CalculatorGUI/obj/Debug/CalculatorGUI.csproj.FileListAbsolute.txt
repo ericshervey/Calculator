@@ -1,0 +1,10 @@
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+C:\Users\ericb\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Calculatorinator.resources
